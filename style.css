@@ -1,1 +1,8 @@
-THIS IS IMPORTANT
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4, #ffdde1);
+    min-height: 100vh;
+    color: white;
+    text-align: center;
+}
